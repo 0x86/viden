@@ -1,0 +1,7 @@
+.. _ unix101: 
+Unix fundamentals
+#####################
+
+Unix Fundamentals
+--------------------------
+some text here 
